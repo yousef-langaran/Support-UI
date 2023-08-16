@@ -30,3 +30,8 @@
     max-width: 1200px;
     margin: 0 auto;
 }
+.mainAddTicket{
+    display: flex;
+    flex-direction: column;
+    gap: 32px
+}
